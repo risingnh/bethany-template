@@ -1,2 +1,2 @@
 # bethany-template
-Bethany-Template
+It's a HTML, CSS, Bootstrap, jQuery based PSD to HTML Template
